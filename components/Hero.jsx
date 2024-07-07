@@ -23,7 +23,7 @@ const Hero = () => {
             <h1 className="h1 mb-4">Hello, My Name is Salma Bourizi</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
               🚀 Junior Full Stack Developer | React.js | Node.js | MongoDB |
-              Express.js | Transforming Ideas into Dynamic Web Solutions ✨
+              Express.js | Transforming Ideas into Dynamic Web Solutions
             </p>
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
               <Link href="/contact">
