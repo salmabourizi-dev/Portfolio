@@ -10,7 +10,7 @@ import Link from "next/link";
 
 const icons = [
   {
-    path: "www.linkedin.com/in/salma-bourizi",
+    path: "https://www.linkedin.com/in/salma-bourizi",
     name: <RiLinkedinFill />,
   },
   {
