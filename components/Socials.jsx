@@ -14,7 +14,7 @@ const icons = [
     name: <RiLinkedinFill />,
   },
   {
-    path: "https://salmabourizi-dev.github.io",
+    path: "https://www.github.com/salmabourizi-dev",
     name: <RiGithubFill />,
   },
   // {
